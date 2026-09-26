@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use INSURE-AI in your work, please cite this repository."
+title: "INSURE-AI: National-Interest AI Modernization Methodology for Insurance Systems"
+authors:
+  - family-names: "Solan"
+    given-names: "Rohin"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2026-09-25
+version: "1.0.0"
+repository-code: "https://github.com/rohinjh/INSURE_AI_Applied_AI_Modernization_for_Insurance_Systems"
+abstract: >
+  INSURE-AI is a national-interest applied AI modernization methodology designed
+  specifically for insurance systems. It defines a structured six-phase cycle—
+  Identify, Normalize, Structure, Unify, Reinforce, Evaluate—covering enterprise
+  data mining, regulated ML pipelines, Copilot collaboration, and Power Platform
+  automation. This repository contains the full LaTeX technical report and TikZ
+  diagrams for the INSURE-AI framework.
+keywords:
+  - INSURE-AI
+  - AI modernization
+  - insurance systems
+  - national interest
+  - machine learning pipelines
+  - Copilot workflows
+  - Power Platform automation
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22944226"
+  - type: doi
+    value: "10.5281/zenodo.22903195"
+license: "MIT"
